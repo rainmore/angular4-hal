@@ -304,6 +304,7 @@ customized by
 + last()
 + count() requires implementation of server-side custom repository method countAll, or optionally accepts a custom countBy* method name and parameters
 + totalElements()
++ totalPages()
 
 
 ### Resource
